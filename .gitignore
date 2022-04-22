@@ -1,0 +1,6 @@
+__pycache__/*
+.env/*
+*.sqlite
+*.pdf
+*.html
+.local_credentials
